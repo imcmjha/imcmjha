@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <br />
 
-### Languages and Tools:
+### 🛠 Languages and Tools:
 
 <!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> -->
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Get blob from azure using Azure.Storage.Blobs](https://dev.to/imcmjha/get-blob-from-azure-using-azure-storage-blobs-28lb)
 - [Get all blobs in given Azure container](https://dev.to/imcmjha/get-all-blobs-in-given-azure-container-aoe)
 - [Download blob from azure using Azure.Storage.Blobs](https://dev.to/imcmjha/download-blob-from-azure-using-azure-storage-blobs-c0m)
@@ -53,5 +54,6 @@ Here are some ideas to get you started:
 ### 👨‍💻 Github Activity
 
 <!--START_SECTION:activity-->
+
 1. ❗️ Opened issue [#6665](https://github.com/TeamNewPipe/NewPipe/issues/6665) in [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
 <!--END_SECTION:activity-->
