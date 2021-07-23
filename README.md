@@ -50,4 +50,5 @@ Here are some ideas to get you started:
 ### 👨‍💻 Github Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#6665](https://github.com/TeamNewPipe/NewPipe/issues/6665) in [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
 <!--END_SECTION:activity-->
