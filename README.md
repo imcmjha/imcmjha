@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Get blob from azure using Azure.Storage.Blobs](https://dev.to/imcmjha/get-blob-from-azure-using-azure-storage-blobs-28lb)
+- [Get all blobs in given Azure container](https://dev.to/imcmjha/get-all-blobs-in-given-azure-container-aoe)
+- [Download blob from azure using Azure.Storage.Blobs](https://dev.to/imcmjha/download-blob-from-azure-using-azure-storage-blobs-c0m)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
